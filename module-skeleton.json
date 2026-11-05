@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-controlling-flutter",
+  "capabilityKey": "planned:sap:controlling",
+  "presentation": "mobile-flutter",
+  "package": "module_sap_controlling_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/sap/nextjs/controlling.md",
+  "presentationPlan": "projects/sap/flutter/controlling.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
